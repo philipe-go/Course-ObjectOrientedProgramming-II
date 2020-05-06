@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonsterState.Classes.Entities.Monster">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <AssociationLine Name="Monster1" Type="MonsterState.Classes.Entities.Monster" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.282" Y="6.767" />
+        <Point X="3.282" Y="7.298" />
+        <Point X="4.676" Y="7.298" />
+        <Point X="4.676" Y="6.312" />
+        <Point X="4.25" Y="6.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAAAAAIAIAEQEAABAIAEAACAIAAAhACQAAI=</HashCode>
+      <FileName>Classes\Entities\Monster.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Monster1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MonsterState.Classes.States.NormalState">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAhARAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\States\NormalState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState" />
+    </ShowAsAssociation>
+    <Lollipop Position="1.3" />
+  </Class>
+  <Class Name="MonsterState.Classes.States.SuperState">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAhARAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\States\SuperState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.127" />
+  </Class>
+  <Class Name="MonsterState.Classes.States.WeakState">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAhARAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\States\WeakState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MonsterState.Classes.States.IState">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\States\IState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

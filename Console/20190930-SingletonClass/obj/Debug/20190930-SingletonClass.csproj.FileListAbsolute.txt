@@ -1,0 +1,7 @@
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\bin\Debug\20190930-SingletonClass.exe.config
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\bin\Debug\20190930-SingletonClass.exe
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\bin\Debug\20190930-SingletonClass.pdb
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\obj\Debug\20190930-SingletonClass.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\obj\Debug\20190930-SingletonClass.csproj.CoreCompileInputs.cache
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\obj\Debug\20190930-SingletonClass.exe
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\20190930-SingletonClass\obj\Debug\20190930-SingletonClass.pdb

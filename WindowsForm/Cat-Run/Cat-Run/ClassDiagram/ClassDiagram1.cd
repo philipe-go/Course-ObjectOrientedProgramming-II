@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cat_Run.Entities.GameManager">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQwCBAADAgAQASgAEAAIAAAABABAAAGAAAAAgAAMgAA=</HashCode>
+      <FileName>Entities\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cat_Run.Entities.Dice">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Dice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cat_Run.Entities.Cat">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Cat1" Type="Cat_Run.Entities.Cat" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="0.5" />
+        <Point X="1.25" Y="0.344" />
+        <Point X="2.375" Y="0.344" />
+        <Point X="2.375" Y="1.25" />
+        <Point X="2" Y="1.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAEAAAAAAAAAAAAAAABABAAAAEAAAABAAIAAA=</HashCode>
+      <FileName>Entities\Cat.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cat1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Cat_Run.State.WeakState">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <AssociationLine Name="IState" Type="Cat_Run.State.IState" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="3.75" />
+        <Point X="2" Y="3.596" />
+        <Point X="3.312" Y="3.596" />
+        <Point X="3.312" Y="1.796" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAAgAAAAhQBAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>State\WeakState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cat_Run.State.SuperState">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <AssociationLine Name="IState1" Type="Cat_Run.State.IState" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="3.75" />
+        <Point X="5.5" Y="3.375" />
+        <Point X="4.312" Y="3.375" />
+        <Point X="4.312" Y="1.796" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAEAAAgAAAAhQBAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>State\SuperState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState1" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cat_Run.State.NormalState">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAEAAAgAAAAhQBAAAEAAAABAAAAAAA=</HashCode>
+      <FileName>State\NormalState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IState1" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Cat_Run.State.IState">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>State\IState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

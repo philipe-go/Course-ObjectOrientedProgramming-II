@@ -1,0 +1,6 @@
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\obj\Debug\Philipe_MidTermFall2019.csprojAssemblyReference.cache
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\bin\Debug\Philipe_MidTermFall2019.exe.config
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\bin\Debug\Philipe_MidTermFall2019.exe
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\bin\Debug\Philipe_MidTermFall2019.pdb
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\obj\Debug\Philipe_MidTermFall2019.exe
+D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Philipe_MidTermFall2019\obj\Debug\Philipe_MidTermFall2019.pdb
