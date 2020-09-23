@@ -1,2 +1,4 @@
 * linguist-language=C#
 *.rtf linguist-detectable=false
+*.pdf linguist-detectable=false
+*.txt linguist-detectable=false
