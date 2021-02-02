@@ -1,6 +1,0 @@
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\bin\Debug\Pokemon.exe.config
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\bin\Debug\Pokemon.exe
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\bin\Debug\Pokemon.pdb
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\obj\Debug\Pokemon.exe
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Console\Pokemon\obj\Debug\Pokemon.pdb

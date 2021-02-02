@@ -1,7 +1,0 @@
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\bin\Debug\Class20190906.exe.config
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\bin\Debug\Class20190906.exe
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\bin\Debug\Class20190906.pdb
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\obj\Debug\Class20190906.csprojAssemblyReference.cache
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\obj\Debug\Class20190906.csproj.CoreCompileInputs.cache
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\obj\Debug\Class20190906.exe
-D:\Documents\Lasalle\2019.3-fall\ObjectOrientedProgramming2\Class20190906\Class20190906\obj\Debug\Class20190906.pdb
